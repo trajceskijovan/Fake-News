@@ -34,3 +34,20 @@ The merged dataset is Balanced - this will make it easier for prediction.
 
 ![](samples/6.png)
 
+5. News count by each Subject, and, Subject by category plots:
+
+![](samples/7.png)
+
+![](samples/8.png)
+
+
+
+
+
+
+
+
+
+
+
+

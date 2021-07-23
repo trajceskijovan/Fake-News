@@ -9,4 +9,8 @@ https://github.com/trajceskijovan/Fake-News/blob/main/Presentation.pdf
 
 # EDA:
 Top Words by "Title" (only words over 5 characters allowed)
+
 ![](samples/1.png)
+
+![](samples/2.png)
+

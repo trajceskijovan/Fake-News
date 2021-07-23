@@ -44,18 +44,31 @@ The merged dataset is Balanced - this will make it easier for prediction.
 # Pre-processing and data cleanup
 
 > Create a corpus (type of object expected by "tm" library)
+> 
 > Text to lower case
+> 
 > Remove numbers
+> 
 > Remove Punctuations
+> 
 > Remove Stopwords
+> 
 > Remove specific words (example: we should remove the name of the newspaper –“Reuters”-its on every news)
+> 
 > Remove Whitespace
+> 
 > I have decided not to do “stem words” as it tweaks and cuts the words and they might lose their meaning
+> 
 > Remove other punctuation issues (example: "[[:punct:]]" )
+> 
 > Lemmatization
+> 
 > Create Document Term Matrix with control list (example: “wordLengths=c(5, 20)”)
+> 
 > I enforced lower and upper limit to the length of the words included (between 5 and 20 characters) to speed up data processing and eliminate noise
+> 
 > After that, I removed all terms whose sparsity is greater than the threshold. Sparsity dropped from 100% to 77% and term length dropped from 20 to 14 (example: “sparse = 0.85”)
+> 
 > Convert DTM to matrix to DataFrame
 
 

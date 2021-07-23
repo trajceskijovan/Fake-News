@@ -41,7 +41,7 @@ The merged dataset is Balanced - this will make it easier for prediction.
 ![](samples/8.png)
 
 
-# Pre-processing and data cleanup
+# Pre-processing and data cleanup:
 
 > Create a corpus (type of object expected by "tm" library)
 > 
@@ -72,9 +72,18 @@ The merged dataset is Balanced - this will make it easier for prediction.
 > Convert DTM to matrix to DataFrame
 
 
+# Post-processing analysis:
+
+Return all terms that occur more than 20,000 times in the entire corpus:
+
+> findFreqTerms(dtm.clean,lowfreq=20000)
+ [1] "american"   "campaign"   "clinton"    "country"    "donald"     "election"   "government" "house"     
+ [9] "include"    "obama"      "official"   "party"      "people"     "president"  "report"     "republican"
+[17] "right"      "state"      "trump"      "unite"      "white"     
 
 
 
+Correlation limit inspection and associations among: “Trump”,” Obama”, “Russia”, “State” :
 
 
 

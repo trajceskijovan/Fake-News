@@ -111,4 +111,15 @@ WordClouds:
 ![](samples/15.png)
 
 
+6. Evaluation: ROC
+
+![](samples/16.png)
+
+![](samples/17.png)
+
+
+
+
+
+
 

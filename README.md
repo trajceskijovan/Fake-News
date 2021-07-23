@@ -19,5 +19,9 @@ Merge fake and true news and create a plot over time:
 
 ![](samples/3.png)
 
-* Fake news are more frequent in 2016, 2017 and first half of 2018.
-* In Q4 2018 fake and true news are balanced
+- Fake news are more frequent in 2016, 2017 and first half of 2018.
+- In Q4 2018 fake and true news are balanced
+
+
+
+

@@ -119,8 +119,12 @@ WordClouds:
 
 
 7. Evaluation: Confusion Matrix
+
 ![](samples/18.png)
 
+
 8. Evaluation: Summary Table
+
 ![](samples/19.png)
+
 

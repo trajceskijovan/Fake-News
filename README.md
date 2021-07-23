@@ -97,7 +97,7 @@ WordClouds:
 1. Naive Bayes Model
 ![](samples/11.png)
 
-
-
+2. Logistic Regression Model
+![](samples/12.PNG)
 
 

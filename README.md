@@ -100,4 +100,12 @@ WordClouds:
 2. Logistic Regression Model
 ![](samples/12.PNG)
 
+3. Random Forest Model
+![](samples/13.png)
+
+![](samples/14.png)
+
+
+
+
 

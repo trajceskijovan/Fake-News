@@ -85,16 +85,7 @@ findFreqTerms(dtm.clean,lowfreq=20000)
 
 
 Correlation limit inspection and associations among: “Trump”,” Obama”, “Russia”, “State”:
-
-$trump
-        donald       campaign      president   presidential     republican          white          think 
-          0.63           0.35           0.32           0.29           0.28           0.23           0.21 
-administration 
-          0.20 
-
-$obama
-     president administration 
-          0.37           0.25 
+![](samples/9.PNG)
 
 
 

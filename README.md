@@ -8,9 +8,11 @@ https://github.com/trajceskijovan/Fake-News/blob/main/Fake%20News.R
 https://github.com/trajceskijovan/Fake-News/blob/main/Presentation.pdf
 
 # EDA:
-Top Words by "Title" (only words over 5 characters allowed)
+
+Top Words by "Title" (only words over 5 characters allowed):
 
 ![](samples/1.png)
 
 ![](samples/2.png)
 
+Merge fake and true news and create a plot over time:

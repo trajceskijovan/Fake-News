@@ -22,6 +22,9 @@ Merge fake and true news and create a plot over time:
 - Fake news are more frequent in 2016, 2017 and first half of 2018.
 - In Q4 2018 fake and true news are balanced
 
+Are datasets balanced?
 
+![](samples/4.png)
 
+The merged dataset is Balanced - this will make it easier for prediction.
 

@@ -92,8 +92,10 @@ WordClouds:
 ![](samples/10.PNG)
 
 
+# Modelling, Prediction, Performance:
 
-
+1. Naive Bayes Model
+![](samples/11.png)
 
 
 

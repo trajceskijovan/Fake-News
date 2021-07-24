@@ -41,7 +41,7 @@ The merged dataset is Balanced - this will make it easier for prediction.
 ![](samples/8.png)
 
 
-# Pre-processing and data cleanup:
+# Pre-processing and data cleanup steps that took place are outlined below:
 
 > Create a corpus (type of object expected by "tm" library)
 > 

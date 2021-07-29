@@ -41,7 +41,7 @@ The merged dataset is Balanced - this will make it easier for prediction.
 ![](samples/8.png)
 
 
-# Pre-processing & data cleanup steps that took place are outlined below:
+# Pre-processing & data cleanup steps are outlined below:
 
 > Create a corpus (type of object expected by "tm" library)
 > 
@@ -92,7 +92,7 @@ WordClouds:
 ![](samples/10.PNG)
 
 
-# Modelling, Prediction, Performance:
+# Modeling, Prediction, Performance:
 
 1. Naive Bayes Model
 ![](samples/11.png)

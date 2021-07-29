@@ -1,5 +1,5 @@
 # Fake-News
-Fake News analysis in R Script: EDA & Prediction.
+Fake News analysis in R Script: EDA & Prediction (Naive Bayes, Random Forest, SVM, NNET).
 
 # Code:
 https://github.com/trajceskijovan/Fake-News/blob/main/Fake%20News.R

@@ -1,5 +1,5 @@
 # Fake-News
-Fake News analysis in R Script
+Fake News analysis in R Script: EDA & Prediction.
 
 # Code:
 https://github.com/trajceskijovan/Fake-News/blob/main/Fake%20News.R
